@@ -17,3 +17,6 @@ connection.query('SELECT * FROM location', (err, rows) =>{
 
 	console.log(rows);
 });
+
+//mysql is accessible from this node wrapper
+
